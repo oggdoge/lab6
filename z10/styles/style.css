@@ -1,0 +1,9 @@
+#sp {
+	width: 150px;
+}
+#spisok1 {
+	list-style:circle url(marker.gif) inside;
+}
+#spisok2 {
+	list-style-position:outside;
+}
